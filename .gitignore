@@ -1,0 +1,6 @@
+.DS_Store
+*.class
+*.jar
+data/
+clean.csv
+pgsql-dump.csv
